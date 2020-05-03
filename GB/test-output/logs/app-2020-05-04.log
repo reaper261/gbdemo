@@ -1,0 +1,519 @@
+01:50:48.332 INFO  DemoSuite ***Starting testcase1
+01:50:48.342 INFO  Drivers Start Chrome browser
+01:50:51.295 INFO  Drivers Maximine browser
+01:50:52.422 INFO  DemoSuite Step 1: Launch web address
+01:50:52.423 INFO  Utils Launch web url: https://www.gobear.com/ph?x_session_type=UAT
+01:50:54.819 INFO  DemoSuite Step 2: Select Insurance tab 
+01:50:54.923 INFO  Utils Wait for element clickable
+01:50:55.051 INFO  SearchPage Click Insurance tab
+01:50:55.160 INFO  DemoSuite Step 3: Select Travel tab
+01:50:55.185 INFO  Utils Wait for element clickable
+01:50:55.320 INFO  SearchPage Click Travel tab
+01:50:55.495 INFO  DemoSuite Step 4: Click on Show My Result button
+01:50:55.495 INFO  SearchPage Click Search button
+01:50:56.290 INFO  DemoSuite Step 5: Wait for Search Result Page to load
+01:50:58.408 INFO  SearchResultPage Wait for Search Result page displays properly
+01:50:59.441 INFO  Utils Wait for element visible
+01:50:59.472 INFO  Utils Wait for element visible
+01:50:59.501 INFO  Utils Wait for element visible
+01:50:59.530 INFO  Utils Wait for element visible
+01:50:59.556 INFO  Utils Wait for element visible
+01:50:59.571 INFO  DemoSuite Step 6: Verify more than 3 cards are displayed
+01:50:59.571 INFO  SearchResultPage Compare number of search item on Result page
+01:50:59.601 INFO  DemoSuite Step 7: Check Standard Insurance checkbox
+01:50:59.601 INFO  SearchResultPage Check or uncheck on checkbox on Result page
+01:50:59.769 INFO  DemoSuite Step 8: Verify filter result
+01:51:00.787 INFO  SearchResultPage Verify name of Insurers after filter are match with expected
+01:51:00.803 INFO  DemoSuite Step 9: Sorting Price Low to High
+01:51:00.803 INFO  SearchResultPage Change sort option on Result page
+01:51:00.983 INFO  DemoSuite Step 10: Verify sorting Price Low to High
+01:51:01.996 INFO  SearchResultPage Verify sorting is functional
+01:51:02.097 INFO  DemoSuite Step 11: Change Destination to Japan
+01:51:02.098 INFO  SearchResultPage Change Destination option on Result page
+01:51:02.139 INFO  DemoSuite ***Tearing down for test suite
+01:51:04.265 INFO  DemoSuite ***Tear down test suite completed.
+
+01:53:06.484 INFO  DemoSuite ***Starting testcase1
+01:53:06.494 INFO  Drivers Start Chrome browser
+01:53:09.511 INFO  Drivers Maximine browser
+01:53:10.636 INFO  DemoSuite Step 1: Launch web address
+01:53:10.638 INFO  Utils Launch web url: https://www.gobear.com/ph?x_session_type=UAT
+01:53:13.056 INFO  DemoSuite Step 2: Select Insurance tab 
+01:53:13.119 INFO  Utils Wait for element clickable
+01:53:13.269 INFO  SearchPage Click Insurance tab
+01:53:13.386 INFO  DemoSuite Step 3: Select Travel tab
+01:53:13.405 INFO  Utils Wait for element clickable
+01:53:13.527 INFO  SearchPage Click Travel tab
+01:53:13.697 INFO  DemoSuite Step 4: Click on Show My Result button
+01:53:13.697 INFO  SearchPage Click Search button
+01:53:14.375 INFO  DemoSuite Step 5: Wait for Search Result Page to load
+01:53:15.531 INFO  SearchResultPage Wait for Search Result page displays properly
+01:53:16.597 INFO  Utils Wait for element visible
+01:53:16.654 INFO  Utils Wait for element visible
+01:53:16.687 INFO  Utils Wait for element visible
+01:53:16.737 INFO  Utils Wait for element visible
+01:53:16.777 INFO  Utils Wait for element visible
+01:53:16.794 INFO  DemoSuite Step 6: Verify more than 3 cards are displayed
+01:53:16.794 INFO  SearchResultPage Compare number of search item on Result page
+01:53:16.831 INFO  DemoSuite Step 7: Check Standard Insurance checkbox
+01:53:16.831 INFO  SearchResultPage Check or uncheck on checkbox on Result page
+01:53:17.065 INFO  DemoSuite Step 8: Verify filter result
+01:53:18.080 INFO  SearchResultPage Verify name of Insurers after filter are match with expected
+01:53:18.094 INFO  DemoSuite Step 9: Sorting Price Low to High
+01:53:18.094 INFO  SearchResultPage Change sort option on Result page
+01:53:18.264 INFO  DemoSuite Step 10: Verify sorting Price Low to High
+01:53:19.272 INFO  SearchResultPage Verify sorting is functional
+01:53:19.362 INFO  DemoSuite Step 11: Change Destination to Japan
+01:53:19.362 INFO  SearchResultPage Change Destination option on Result page
+01:53:19.556 INFO  SearchResultPage selected dropdown1
+01:53:19.591 INFO  DemoSuite ***Tearing down for test suite
+01:53:21.724 INFO  DemoSuite ***Tear down test suite completed.
+
+01:58:57.029 INFO  DemoSuite ***Starting testcase1
+01:58:57.039 INFO  Drivers Start Chrome browser
+01:59:00.014 INFO  Drivers Maximine browser
+01:59:01.155 INFO  DemoSuite Step 1: Launch web address
+01:59:01.156 INFO  Utils Launch web url: https://www.gobear.com/ph?x_session_type=UAT
+01:59:03.796 INFO  DemoSuite Step 2: Select Insurance tab 
+01:59:03.814 INFO  Utils Wait for element clickable
+01:59:03.875 INFO  SearchPage Click Insurance tab
+01:59:04.008 INFO  DemoSuite Step 3: Select Travel tab
+01:59:04.070 INFO  Utils Wait for element clickable
+01:59:04.288 INFO  SearchPage Click Travel tab
+01:59:04.455 INFO  DemoSuite Step 4: Click on Show My Result button
+01:59:04.455 INFO  SearchPage Click Search button
+01:59:05.210 INFO  DemoSuite Step 5: Wait for Search Result Page to load
+01:59:06.516 INFO  SearchResultPage Wait for Search Result page displays properly
+01:59:07.566 INFO  Utils Wait for element visible
+01:59:07.656 INFO  Utils Wait for element visible
+01:59:07.812 INFO  Utils Wait for element visible
+01:59:07.844 INFO  Utils Wait for element visible
+01:59:07.875 INFO  Utils Wait for element visible
+01:59:07.901 INFO  DemoSuite Step 6: Verify more than 3 cards are displayed
+01:59:07.902 INFO  SearchResultPage Compare number of search item on Result page
+01:59:07.932 INFO  DemoSuite Step 7: Check Standard Insurance checkbox
+01:59:07.933 INFO  SearchResultPage Check or uncheck on checkbox on Result page
+01:59:08.245 INFO  DemoSuite Step 8: Verify filter result
+01:59:09.267 INFO  SearchResultPage Verify name of Insurers after filter are match with expected
+01:59:09.292 INFO  DemoSuite Step 9: Sorting Price Low to High
+01:59:09.292 INFO  SearchResultPage Change sort option on Result page
+01:59:09.534 INFO  DemoSuite Step 10: Verify sorting Price Low to High
+01:59:10.548 INFO  SearchResultPage Verify sorting is functional
+01:59:10.654 INFO  DemoSuite Step 11: Change Destination to Japan
+01:59:10.654 INFO  SearchResultPage Change Destination option on Result page
+01:59:10.678 INFO  DemoSuite ***Tearing down for test suite
+01:59:11.060 INFO  DemoSuite ***Tear down test suite completed.
+
+02:04:25.787 INFO  DemoSuite ***Starting testcase1
+02:04:25.795 INFO  Drivers Start Chrome browser
+02:04:28.846 INFO  Drivers Maximine browser
+02:04:29.978 INFO  DemoSuite Step 1: Launch web address
+02:04:29.980 INFO  Utils Launch web url: https://www.gobear.com/ph?x_session_type=UAT
+02:04:32.378 INFO  DemoSuite Step 2: Select Insurance tab 
+02:04:32.410 INFO  Utils Wait for element clickable
+02:04:32.581 INFO  SearchPage Click Insurance tab
+02:04:32.681 INFO  DemoSuite Step 3: Select Travel tab
+02:04:32.730 INFO  Utils Wait for element clickable
+02:04:32.765 INFO  SearchPage Click Travel tab
+02:04:33.012 INFO  DemoSuite Step 4: Click on Show My Result button
+02:04:33.012 INFO  SearchPage Click Search button
+02:04:33.961 INFO  DemoSuite Step 5: Wait for Search Result Page to load
+02:04:36.419 INFO  SearchResultPage Wait for Search Result page displays properly
+02:04:37.476 INFO  Utils Wait for element visible
+02:04:37.511 INFO  Utils Wait for element visible
+02:04:37.539 INFO  Utils Wait for element visible
+02:04:37.568 INFO  Utils Wait for element visible
+02:04:37.597 INFO  Utils Wait for element visible
+02:04:37.616 INFO  DemoSuite Step 6: Verify more than 3 cards are displayed
+02:04:37.616 INFO  SearchResultPage Compare number of search item on Result page
+02:04:37.646 INFO  DemoSuite Step 7: Check Standard Insurance checkbox
+02:04:37.647 INFO  SearchResultPage Check or uncheck on checkbox on Result page
+02:04:37.825 INFO  DemoSuite Step 8: Verify filter result
+02:04:38.831 INFO  SearchResultPage Verify name of Insurers after filter are match with expected
+02:04:38.856 INFO  DemoSuite Step 9: Sorting Price Low to High
+02:04:38.856 INFO  SearchResultPage Change sort option on Result page
+02:04:39.024 INFO  DemoSuite Step 10: Verify sorting Price Low to High
+02:04:40.030 INFO  SearchResultPage Verify sorting is functional
+02:04:40.114 INFO  DemoSuite Step 11: Change Destination to Japan
+02:04:40.114 INFO  SearchResultPage Change Destination option on Result page
+02:04:40.292 INFO  SearchResultPage selected dropdown1
+02:04:40.333 INFO  DemoSuite ***Tearing down for test suite
+02:04:42.467 INFO  DemoSuite ***Tear down test suite completed.
+
+02:08:14.268 INFO  DemoSuite ***Starting testcase1
+02:08:14.277 INFO  Drivers Start Chrome browser
+02:08:17.296 INFO  Drivers Maximine browser
+02:08:18.439 INFO  DemoSuite Step 1: Launch web address
+02:08:18.440 INFO  Utils Launch web url: https://www.gobear.com/ph?x_session_type=UAT
+02:08:20.690 INFO  DemoSuite Step 2: Select Insurance tab 
+02:08:20.859 INFO  Utils Wait for element clickable
+02:08:20.971 INFO  SearchPage Click Insurance tab
+02:08:21.192 INFO  DemoSuite Step 3: Select Travel tab
+02:08:21.234 INFO  DemoSuite ***Tearing down for test suite
+02:08:21.584 INFO  DemoSuite ***Tear down test suite completed.
+
+02:08:38.548 INFO  DemoSuite ***Starting testcase1
+02:08:38.557 INFO  Drivers Start Chrome browser
+02:08:41.526 INFO  Drivers Maximine browser
+02:08:42.654 INFO  DemoSuite Step 1: Launch web address
+02:08:42.655 INFO  Utils Launch web url: https://www.gobear.com/ph?x_session_type=UAT
+02:08:44.816 INFO  DemoSuite Step 2: Select Insurance tab 
+02:08:44.873 INFO  Utils Wait for element clickable
+02:08:44.966 INFO  SearchPage Click Insurance tab
+02:08:45.096 INFO  DemoSuite Step 3: Select Travel tab
+02:08:45.112 INFO  Utils Wait for element clickable
+02:08:45.235 INFO  SearchPage Click Travel tab
+02:08:45.508 INFO  DemoSuite Step 4: Click on Show My Result button
+02:08:45.508 INFO  SearchPage Click Search button
+02:08:46.114 INFO  DemoSuite Step 5: Wait for Search Result Page to load
+02:08:47.337 INFO  SearchResultPage Wait for Search Result page displays properly
+02:08:48.466 INFO  Utils Wait for element visible
+02:08:48.602 INFO  Utils Wait for element visible
+02:08:48.727 INFO  Utils Wait for element visible
+02:08:48.761 INFO  Utils Wait for element visible
+02:08:48.792 INFO  Utils Wait for element visible
+02:08:48.811 INFO  DemoSuite Step 6: Verify more than 3 cards are displayed
+02:08:48.811 INFO  SearchResultPage Compare number of search item on Result page
+02:08:48.855 INFO  DemoSuite Step 7: Check Standard Insurance checkbox
+02:08:48.856 INFO  SearchResultPage Check or uncheck on checkbox on Result page
+02:08:49.115 INFO  DemoSuite Step 8: Verify filter result
+02:08:50.120 INFO  SearchResultPage Verify name of Insurers after filter are match with expected
+02:08:50.142 INFO  DemoSuite Step 9: Sorting Price Low to High
+02:08:50.142 INFO  SearchResultPage Change sort option on Result page
+02:08:50.311 INFO  DemoSuite Step 10: Verify sorting Price Low to High
+02:08:51.317 INFO  SearchResultPage Verify sorting is functional
+02:08:51.406 INFO  DemoSuite Step 11: Change Destination to Japan
+02:08:51.407 INFO  SearchResultPage Change Destination option on Result page
+02:08:51.592 INFO  SearchResultPage selected dropdown1
+02:08:51.748 INFO  DemoSuite ***Tearing down for test suite
+02:08:52.129 INFO  DemoSuite ***Tear down test suite completed.
+
+02:18:17.535 INFO  DemoSuite ***Starting testcase1
+02:18:17.546 INFO  Drivers Start Chrome browser
+02:18:20.860 INFO  Drivers Maximine browser
+02:18:21.987 INFO  DemoSuite Step 1: Launch web address
+02:18:21.988 INFO  Utils Launch web url: https://www.gobear.com/ph?x_session_type=UAT
+02:18:25.109 INFO  DemoSuite Step 2: Select Insurance tab 
+02:18:25.182 INFO  Utils Wait for element clickable
+02:18:25.352 INFO  SearchPage Click Insurance tab
+02:18:25.511 INFO  DemoSuite Step 3: Select Travel tab
+02:18:25.545 INFO  Utils Wait for element clickable
+02:18:25.739 INFO  SearchPage Click Travel tab
+02:18:26.089 INFO  DemoSuite Step 4: Click on Show My Result button
+02:18:26.089 INFO  SearchPage Click Search button
+02:18:26.894 INFO  DemoSuite Step 5: Wait for Search Result Page to load
+02:18:27.975 INFO  SearchResultPage Wait for Search Result page displays properly
+02:18:29.655 INFO  Utils Wait for element visible
+02:18:30.043 INFO  Utils Wait for element visible
+02:18:30.077 INFO  Utils Wait for element visible
+02:18:30.142 INFO  Utils Wait for element visible
+02:18:30.187 INFO  Utils Wait for element visible
+02:18:30.215 INFO  DemoSuite Step 6: Verify more than 3 cards are displayed
+02:18:30.215 INFO  SearchResultPage Compare number of search item on Result page
+02:18:30.275 INFO  DemoSuite Step 7: Check Standard Insurance checkbox
+02:18:30.275 INFO  SearchResultPage Check or uncheck on checkbox on Result page
+02:18:30.509 INFO  DemoSuite Step 8: Verify filter result
+02:18:31.539 INFO  SearchResultPage Verify name of Insurers after filter are match with expected
+02:18:31.564 INFO  DemoSuite Step 9: Sorting Price Low to High
+02:18:31.564 INFO  SearchResultPage Change sort option on Result page
+02:18:31.805 INFO  DemoSuite Step 10: Verify sorting Price Low to High
+02:18:32.811 INFO  SearchResultPage Verify sorting is functional
+02:18:32.922 INFO  DemoSuite Step 11: Change Destination to Japan
+02:18:32.922 INFO  SearchResultPage Change Destination option on Result page
+02:18:33.123 INFO  SearchResultPage selected dropdown1
+02:18:33.159 INFO  SearchResultPage selected dropdown2
+02:18:33.210 INFO  SearchResultPage selected dropdown3
+02:18:33.210 INFO  DemoSuite Step 12: Verify more than 3 cards are displayed
+02:18:33.210 INFO  SearchResultPage Compare number of search item on Result page
+02:18:33.246 INFO  DemoSuite ***Tearing down for test suite
+02:18:35.424 INFO  DemoSuite ***Tear down test suite completed.
+
+03:07:54.420 INFO  DemoSuite ***Starting testcase1
+03:07:54.429 INFO  Drivers Start Chrome browser
+03:07:57.614 INFO  Drivers Maximine browser
+03:07:58.745 INFO  DemoSuite Step 1: Launch web address
+03:07:58.747 INFO  Utils Launch web url: https://www.gobear.com/ph?x_session_type=UAT
+03:08:01.172 INFO  DemoSuite Step 2: Select Insurance tab 
+03:08:01.208 INFO  Utils Wait for element clickable
+03:08:01.329 INFO  SearchPage Click Insurance tab
+03:08:01.556 INFO  DemoSuite Step 3: Select Travel tab
+03:08:01.603 INFO  Utils Wait for element clickable
+03:08:01.751 INFO  SearchPage Click Travel tab
+03:08:01.923 INFO  DemoSuite Step 4: Click on Show My Result button
+03:08:01.923 INFO  SearchPage Click Search button
+03:08:02.709 INFO  DemoSuite Step 5: Wait for Search Result Page to load
+03:08:03.755 INFO  SearchResultPage Wait for Search Result page displays properly
+03:08:05.078 INFO  Utils Wait for element visible
+03:08:05.112 INFO  Utils Wait for element visible
+03:08:05.293 INFO  Utils Wait for element visible
+03:08:05.343 INFO  Utils Wait for element visible
+03:08:05.390 INFO  Utils Wait for element visible
+03:08:05.407 INFO  DemoSuite Step 6: Verify more than 3 cards are displayed
+03:08:05.408 INFO  SearchResultPage Compare number of search item on Result page
+03:08:05.439 INFO  DemoSuite Step 7: Check Standard Insurance checkbox
+03:08:05.439 INFO  SearchResultPage Check or uncheck on checkbox on Result page
+03:08:05.721 INFO  DemoSuite Step 8: Verify filter result
+03:08:06.727 INFO  SearchResultPage Verify name of Insurers after filter are match with expected
+03:08:06.770 INFO  DemoSuite Step 9: Sorting Price Low to High
+03:08:06.770 INFO  SearchResultPage Change sort option on Result page
+03:08:06.935 INFO  DemoSuite Step 10: Verify sorting Price Low to High
+03:08:07.944 INFO  SearchResultPage Verify sorting is functional
+03:08:08.036 INFO  DemoSuite Step 11: Change Destination to Philippines
+03:08:08.037 INFO  SearchResultPage Change Destination option on Result page
+03:08:08.267 INFO  DemoSuite Step 12: Verify more than 3 cards are displayed
+03:08:08.267 INFO  SearchResultPage Compare number of search item on Result page
+03:08:08.295 INFO  DemoSuite Step 13: Change Travel Start Date
+03:08:08.295 INFO  SearchResultPage Change Destination option on Result page
+03:08:08.465 INFO  DemoSuite ***Tearing down for test suite
+03:08:10.931 INFO  DemoSuite ***Tear down test suite completed.
+
+03:15:29.136 INFO  DemoSuite ***Starting testcase1
+03:15:29.148 INFO  Drivers Start Chrome browser
+03:15:32.173 INFO  Drivers Maximine browser
+03:15:33.303 INFO  DemoSuite Step 1: Launch web address
+03:15:33.304 INFO  Utils Launch web url: https://www.gobear.com/ph?x_session_type=UAT
+03:15:35.657 INFO  DemoSuite Step 2: Select Insurance tab 
+03:15:35.701 INFO  Utils Wait for element clickable
+03:15:35.875 INFO  SearchPage Click Insurance tab
+03:15:36.014 INFO  DemoSuite Step 3: Select Travel tab
+03:15:36.055 INFO  Utils Wait for element clickable
+03:15:36.158 INFO  SearchPage Click Travel tab
+03:15:36.321 INFO  DemoSuite Step 4: Click on Show My Result button
+03:15:36.321 INFO  SearchPage Click Search button
+03:15:37.126 INFO  DemoSuite Step 5: Wait for Search Result Page to load
+03:15:38.136 INFO  SearchResultPage Wait for Search Result page displays properly
+03:15:39.177 INFO  Utils Wait for element visible
+03:15:39.263 INFO  Utils Wait for element visible
+03:15:39.296 INFO  Utils Wait for element visible
+03:15:39.335 INFO  Utils Wait for element visible
+03:15:39.381 INFO  Utils Wait for element visible
+03:15:39.409 INFO  DemoSuite Step 6: Verify more than 3 cards are displayed
+03:15:39.409 INFO  SearchResultPage Compare number of search item on Result page
+03:15:39.465 INFO  DemoSuite Step 7: Check Standard Insurance checkbox
+03:15:39.465 INFO  SearchResultPage Check or uncheck on checkbox on Result page
+03:15:40.170 INFO  DemoSuite Step 8: Verify filter result
+03:15:41.191 INFO  SearchResultPage Verify name of Insurers after filter are match with expected
+03:15:41.216 INFO  DemoSuite Step 9: Sorting Price Low to High
+03:15:41.216 INFO  SearchResultPage Change sort option on Result page
+03:15:41.483 INFO  DemoSuite Step 10: Verify sorting Price Low to High
+03:15:42.489 INFO  SearchResultPage Verify sorting is functional
+03:15:42.583 INFO  DemoSuite Step 11: Change Destination to Philippines
+03:15:42.583 INFO  SearchResultPage Change Destination option on Result page
+03:15:42.864 INFO  DemoSuite Step 12: Verify more than 3 cards are displayed
+03:15:42.865 INFO  SearchResultPage Compare number of search item on Result page
+03:15:42.887 INFO  DemoSuite Step 13: Change Travel Start Date
+03:15:42.887 INFO  SearchResultPage Change Destination option on Result page
+03:15:43.073 INFO  DemoSuite ***Tearing down for test suite
+03:15:45.221 INFO  DemoSuite ***Tear down test suite completed.
+
+03:29:23.986 INFO  DemoSuite ***Starting testcase1
+03:29:23.995 INFO  Drivers Start Chrome browser
+03:29:26.982 INFO  Drivers Maximine browser
+03:29:28.106 INFO  DemoSuite Step 1: Launch web address
+03:29:28.107 INFO  Utils Launch web url: https://www.gobear.com/ph?x_session_type=UAT
+03:29:30.624 INFO  DemoSuite Step 2: Select Insurance tab 
+03:29:30.726 INFO  Utils Wait for element clickable
+03:29:30.809 INFO  SearchPage Click Insurance tab
+03:29:30.931 INFO  DemoSuite Step 3: Select Travel tab
+03:29:30.975 INFO  Utils Wait for element clickable
+03:29:31.084 INFO  SearchPage Click Travel tab
+03:29:31.294 INFO  DemoSuite Step 4: Click on Show My Result button
+03:29:31.295 INFO  SearchPage Click Search button
+03:29:32.118 INFO  DemoSuite Step 5: Wait for Search Result Page to load
+03:29:33.337 INFO  SearchResultPage Wait for Search Result page displays properly
+03:29:34.376 INFO  Utils Wait for element visible
+03:29:34.415 INFO  Utils Wait for element visible
+03:29:34.449 INFO  Utils Wait for element visible
+03:29:34.496 INFO  Utils Wait for element visible
+03:29:34.547 INFO  Utils Wait for element visible
+03:29:34.561 INFO  DemoSuite Step 6: Verify more than 3 cards are displayed
+03:29:34.561 INFO  SearchResultPage Compare number of search item on Result page
+03:29:34.624 INFO  DemoSuite Step 7: Check Standard Insurance checkbox
+03:29:34.624 INFO  SearchResultPage Check or uncheck on checkbox on Result page
+03:29:34.816 INFO  DemoSuite Step 8: Verify filter result
+03:29:35.828 INFO  SearchResultPage Verify name of Insurers after filter are match with expected
+03:29:35.844 INFO  DemoSuite Step 9: Sorting Price Low to High
+03:29:35.844 INFO  SearchResultPage Change sort option on Result page
+03:29:36.015 INFO  DemoSuite Step 10: Verify sorting Price Low to High
+03:29:37.021 INFO  SearchResultPage Verify sorting is functional
+03:29:37.114 INFO  DemoSuite Step 11: Change Destination to Philippines
+03:29:37.114 INFO  SearchResultPage Change Destination option on Result page
+03:29:37.371 INFO  DemoSuite Step 12: Verify more than 3 cards are displayed
+03:29:37.371 INFO  SearchResultPage Compare number of search item on Result page
+03:29:37.389 INFO  DemoSuite Step 13: Change Travel Start Date
+03:29:37.389 INFO  SearchResultPage Change Destination option on Result page
+03:29:37.563 INFO  DemoSuite ***Tearing down for test suite
+03:29:39.994 INFO  DemoSuite ***Tear down test suite completed.
+
+03:31:16.602 INFO  DemoSuite ***Starting testcase1
+03:31:16.612 INFO  Drivers Start Chrome browser
+03:31:19.932 INFO  Drivers Maximine browser
+03:31:21.063 INFO  DemoSuite Step 1: Launch web address
+03:31:21.065 INFO  Utils Launch web url: https://www.gobear.com/ph?x_session_type=UAT
+03:31:23.639 INFO  DemoSuite Step 2: Select Insurance tab 
+03:31:23.739 INFO  Utils Wait for element clickable
+03:31:23.793 INFO  SearchPage Click Insurance tab
+03:31:23.990 INFO  DemoSuite Step 3: Select Travel tab
+03:31:24.099 INFO  Utils Wait for element clickable
+03:31:24.186 INFO  SearchPage Click Travel tab
+03:31:24.420 INFO  DemoSuite Step 4: Click on Show My Result button
+03:31:24.420 INFO  SearchPage Click Search button
+03:31:25.192 INFO  DemoSuite Step 5: Wait for Search Result Page to load
+03:31:27.817 INFO  SearchResultPage Wait for Search Result page displays properly
+03:31:28.844 INFO  Utils Wait for element visible
+03:31:28.877 INFO  Utils Wait for element visible
+03:31:28.914 INFO  Utils Wait for element visible
+03:31:28.966 INFO  Utils Wait for element visible
+03:31:29.002 INFO  Utils Wait for element visible
+03:31:29.022 INFO  DemoSuite Step 6: Verify more than 3 cards are displayed
+03:31:29.022 INFO  SearchResultPage Compare number of search item on Result page
+03:31:29.050 INFO  DemoSuite Step 7: Check Standard Insurance checkbox
+03:31:29.050 INFO  SearchResultPage Check or uncheck on checkbox on Result page
+03:31:29.243 INFO  DemoSuite Step 8: Verify filter result
+03:31:30.249 INFO  SearchResultPage Verify name of Insurers after filter are match with expected
+03:31:30.266 INFO  DemoSuite Step 9: Sorting Price Low to High
+03:31:30.266 INFO  SearchResultPage Change sort option on Result page
+03:31:30.479 INFO  DemoSuite Step 10: Verify sorting Price Low to High
+03:31:31.488 INFO  SearchResultPage Verify sorting is functional
+03:31:31.594 INFO  DemoSuite Step 11: Change Destination to Philippines
+03:31:31.594 INFO  SearchResultPage Change Destination option on Result page
+03:31:31.892 INFO  DemoSuite Step 12: Verify more than 3 cards are displayed
+03:31:31.893 INFO  SearchResultPage Compare number of search item on Result page
+03:31:31.915 INFO  DemoSuite Step 13: Change Travel Start Date
+03:31:31.915 INFO  SearchResultPage Change Destination option on Result page
+03:31:32.121 INFO  DemoSuite ***Tearing down for test suite
+03:31:34.558 INFO  DemoSuite ***Tear down test suite completed.
+
+03:57:06.547 INFO  TestResultListener ***STARTING SUITE DEMO
+03:57:06.583 INFO  TestResultListener ***STARTING TESTCASE1
+03:57:06.586 INFO  DemoSuite ***Starting testcase1
+03:57:06.589 INFO  Drivers Start Chrome browser
+03:57:10.451 INFO  Drivers Maximine browser
+03:57:11.591 INFO  DemoSuite Step 1: Launch web address
+03:57:11.593 INFO  Utils Launch web url: https://www.gobear.com/ph?x_session_type=UAT
+03:57:14.440 INFO  DemoSuite Step 2: Select Insurance tab 
+03:57:14.498 INFO  Utils Wait for element clickable
+03:57:14.612 INFO  SearchPage Click Insurance tab
+03:57:14.746 INFO  DemoSuite Step 3: Select Travel tab
+03:57:14.784 INFO  Utils Wait for element clickable
+03:57:14.911 INFO  SearchPage Click Travel tab
+03:57:15.117 INFO  DemoSuite Step 4: Click on Show My Result button
+03:57:15.117 INFO  SearchPage Click Search button
+03:57:15.935 INFO  DemoSuite Step 5: Wait for Search Result Page to load
+03:57:16.982 INFO  SearchResultPage Wait for Search Result page displays properly
+03:57:18.529 INFO  Utils Wait for element visible
+03:57:18.724 INFO  Utils Wait for element visible
+03:57:18.776 INFO  Utils Wait for element visible
+03:57:18.843 INFO  Utils Wait for element visible
+03:57:18.887 INFO  Utils Wait for element visible
+03:57:18.901 INFO  DemoSuite Step 6: Verify more than 3 cards are displayed
+03:57:18.901 INFO  SearchResultPage Compare number of search item on Result page
+03:57:19.022 INFO  DemoSuite Step 7: Check Standard Insurance checkbox
+03:57:19.022 INFO  SearchResultPage Check or uncheck on checkbox on Result page
+03:57:19.363 INFO  DemoSuite Step 8: Verify filter result
+03:57:20.382 INFO  SearchResultPage Verify name of Insurers after filter are match with expected
+03:57:20.405 INFO  DemoSuite Step 9: Sorting Price Low to High
+03:57:20.405 INFO  SearchResultPage Change sort option on Result page
+03:57:20.642 INFO  DemoSuite Step 10: Verify sorting Price Low to High
+03:57:21.652 INFO  SearchResultPage Verify sorting is functional
+03:57:21.747 INFO  DemoSuite Step 11: Change Destination to Philippines
+03:57:21.747 INFO  SearchResultPage Change Destination option on Result page
+03:57:22.007 INFO  DemoSuite Step 12: Verify more than 3 cards are displayed
+03:57:22.007 INFO  SearchResultPage Compare number of search item on Result page
+03:57:22.020 INFO  DemoSuite Step 13: Change Travel Start Date
+03:57:22.020 INFO  SearchResultPage Change Destination option on Result page
+03:57:22.205 INFO  TestResultListener ***PASSED TESTCASE1
+03:57:22.206 INFO  DemoSuite ***Tearing down for test suite
+03:57:24.377 INFO  DemoSuite ***Tear down test suite completed.
+
+03:57:24.406 INFO  TestResultListener ***FINISHED SUITE DEMO
+04:03:10.826 INFO  TestResultListener ***STARTING SUITE DEMO
+04:03:10.851 INFO  TestResultListener ***STARTING TESTCASE1
+04:03:10.856 INFO  TestResultListener ***STARTING TESTCASE1
+04:03:10.861 INFO  DemoSuite ***Starting testcase1
+04:03:10.863 INFO  Drivers Start Chrome browser
+04:03:14.170 INFO  Drivers Maximine browser
+04:03:15.300 INFO  DemoSuite Step 1: Launch web address
+04:03:15.303 INFO  Utils Launch web url: https://www.gobear.com/ph?x_session_type=UAT
+04:03:17.681 INFO  DemoSuite Step 2: Select Insurance tab 
+04:03:17.711 INFO  Utils Wait for element clickable
+04:03:17.805 INFO  SearchPage Click Insurance tab
+04:03:18.007 INFO  DemoSuite Step 3: Select Travel tab
+04:03:18.026 INFO  Utils Wait for element clickable
+04:03:18.053 INFO  SearchPage Click Travel tab
+04:03:18.310 INFO  DemoSuite Step 4: Click on Show My Result button
+04:03:18.310 INFO  SearchPage Click Search button
+04:03:19.145 INFO  DemoSuite Step 5: Wait for Search Result Page to load
+04:03:20.323 INFO  SearchResultPage Wait for Search Result page displays properly
+04:03:21.514 INFO  Utils Wait for element visible
+04:03:21.607 INFO  Utils Wait for element visible
+04:03:21.678 INFO  Utils Wait for element visible
+04:03:21.725 INFO  Utils Wait for element visible
+04:03:21.836 INFO  Utils Wait for element visible
+04:03:22.010 INFO  DemoSuite Step 6: Verify more than 3 cards are displayed
+04:03:22.010 INFO  SearchResultPage Compare number of search item on Result page
+04:03:22.082 INFO  DemoSuite Step 7: Check Standard Insurance checkbox
+04:03:22.082 INFO  SearchResultPage Check or uncheck on checkbox on Result page
+04:03:22.320 INFO  DemoSuite Step 8: Verify filter result
+04:03:23.332 INFO  SearchResultPage Verify name of Insurers after filter are match with expected
+04:03:23.358 INFO  DemoSuite Step 9: Sorting Price Low to High
+04:03:23.358 INFO  SearchResultPage Change sort option on Result page
+04:03:23.534 INFO  DemoSuite Step 10: Verify sorting Price Low to High
+04:03:24.541 INFO  SearchResultPage Verify sorting is functional
+04:03:24.636 INFO  DemoSuite Step 11: Change Destination to Philippines
+04:03:24.636 INFO  SearchResultPage Change Destination option on Result page
+04:03:24.902 INFO  DemoSuite Step 12: Verify more than 3 cards are displayed
+04:03:24.902 INFO  SearchResultPage Compare number of search item on Result page
+04:03:24.942 INFO  DemoSuite Step 13: Change Travel Start Date
+04:03:24.942 INFO  SearchResultPage Change Destination option on Result page
+04:03:25.134 INFO  TestResultListener ***PASSED TESTCASE1
+04:03:25.135 INFO  TestResultListener ***PASSED TESTCASE1
+04:03:25.136 INFO  DemoSuite ***Tearing down for test suite
+04:03:27.540 INFO  DemoSuite ***Tear down test suite completed.
+
+04:03:27.556 INFO  TestResultListener ***FINISHED SUITE DEMO
+04:05:36.138 INFO  TestResultListener ***STARTING SUITE DEMO
+04:05:36.161 INFO  TestResultListener ***STARTING TESTCASE1
+04:05:36.165 INFO  TestResultListener ***STARTING TESTCASE1
+04:05:36.168 INFO  DemoSuite ***Starting testcase1
+04:05:36.170 INFO  Drivers Start Chrome browser
+04:05:39.343 INFO  Drivers Maximine browser
+04:05:40.470 INFO  DemoSuite Step 1: Launch web address
+04:05:40.474 INFO  Utils Launch web url: https://www.gobear.com/ph?x_session_type=UAT
+04:05:42.819 INFO  DemoSuite Step 2: Select Insurance tab 
+04:05:42.856 INFO  Utils Wait for element clickable
+04:05:43.108 INFO  SearchPage Click Insurance tab
+04:05:43.279 INFO  DemoSuite Step 3: Select Travel tab
+04:05:43.318 INFO  Utils Wait for element clickable
+04:05:43.457 INFO  SearchPage Click Travel tab
+04:05:43.679 INFO  DemoSuite Step 4: Click on Show My Result button
+04:05:43.679 INFO  SearchPage Click Search button
+04:05:44.447 INFO  DemoSuite Step 5: Wait for Search Result Page to load
+04:05:45.826 INFO  SearchResultPage Wait for Search Result page displays properly
+04:05:47.151 INFO  Utils Wait for element visible
+04:05:47.227 INFO  Utils Wait for element visible
+04:05:47.274 INFO  Utils Wait for element visible
+04:05:47.458 INFO  Utils Wait for element visible
+04:05:47.492 INFO  Utils Wait for element visible
+04:05:47.508 INFO  DemoSuite Step 6: Verify more than 3 cards are displayed
+04:05:47.508 INFO  SearchResultPage Compare number of search item on Result page
+04:05:47.546 INFO  DemoSuite Step 7: Check Standard Insurance checkbox
+04:05:47.547 INFO  SearchResultPage Check or uncheck on checkbox on Result page
+04:05:47.773 INFO  DemoSuite Step 8: Verify filter result
+04:05:48.782 INFO  SearchResultPage Verify name of Insurers after filter are match with expected
+04:05:48.827 INFO  DemoSuite Step 9: Sorting Price Low to High
+04:05:48.827 INFO  SearchResultPage Change sort option on Result page
+04:05:49.105 INFO  DemoSuite Step 10: Verify sorting Price Low to High
+04:05:50.111 INFO  SearchResultPage Verify sorting is functional
+04:05:50.209 INFO  DemoSuite Step 11: Change Destination to Philippines
+04:05:50.209 INFO  SearchResultPage Change Destination option on Result page
+04:05:50.466 INFO  DemoSuite Step 12: Verify more than 3 cards are displayed
+04:05:50.466 INFO  SearchResultPage Compare number of search item on Result page
+04:05:50.483 INFO  DemoSuite Step 13: Change Travel Start Date
+04:05:50.483 INFO  SearchResultPage Change Destination option on Result page
+04:05:50.663 INFO  TestResultListener ***PASSED TESTCASE1
+04:05:50.663 INFO  TestResultListener ***PASSED TESTCASE1
+04:05:50.664 INFO  DemoSuite ***Tearing down for test suite
+04:05:51.065 INFO  DemoSuite ***Tear down test suite completed.
+
+04:05:51.093 INFO  TestResultListener ***FINISHED SUITE DEMO
