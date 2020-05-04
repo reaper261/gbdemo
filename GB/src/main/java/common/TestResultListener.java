@@ -22,12 +22,12 @@ public class TestResultListener extends TestListenerAdapter implements ISuiteLis
 		return testName;
 	}
 	
-	@Override
+	//@Override
 	public void onFinish(ISuite suite) {
 		logger.info("***FINISHED SUITE " + suite.getName().toUpperCase());		
 	}
 
-	@Override
+	//@Override
 	public void onStart(ISuite suite) {
 		logger.info("***STARTING SUITE " + suite.getName().toUpperCase());
 		xmlSuiteName = "ExecutionLogs_" + suite.getXmlSuite().getName();
